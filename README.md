@@ -4,3 +4,5 @@ Now you know that discovering Git can be a horror for a student like me.. but si
 pull request aren't really working.. didn't know how to enbale it?!!
 
 gonna change a few things now!!
+
+just discovered that the tuto in the git doesn't mention that you should select the second option in order to pull new requests and merging it to master. 
